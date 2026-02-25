@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Ganesh%20Penchikala&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20AI%20Builder&descAlignY=60&descSize=18&descColor=a78bfa"/>
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9A%99%EF%B8%8F;Passionate+about+AI+%F0%9F%A4%96;From+Andhra+Pradesh+%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Always+Learning+%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9A%99%EF%B8%8F;Passionate+about+AI+%F0%9F%A4%96;From+Andhra+Pradesh+%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Always+Learning+%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <!-- Profile Views & Socials -->
 [![Profile Views](https://komarev.com/ghpvc/?username=SaiGanesh&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SaiGaneshpenchikala)
