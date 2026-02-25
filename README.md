@@ -21,7 +21,7 @@
 
 <img align="right" alt="profile" width="300" height="300" src="ganesh.jpeg"/>
 
-🎓 **B.Tech CS & IT** from SIET, Puttur, AP *(2021–2025)*
+🎓 **B.Tech CS & IT** from SIETK, Puttur, AP *(2021–2025)*
 
 💼 **Java Full Stack Trainee** @ Codegnan IT Solutions, Hyderabad
 
