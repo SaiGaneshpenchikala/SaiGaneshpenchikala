@@ -16,8 +16,9 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="profile" width="300" length="300" src="ganesh.jpeg"/>
+<!-- About Me Section --><img align="right" alt="profile" width="300" src="ganesh.jpeg"/>
+
+<img align="right" alt="profile" width="300" height="300" src="ganesh.jpeg"/>
 
 ## 👨‍💻 About Me
 
