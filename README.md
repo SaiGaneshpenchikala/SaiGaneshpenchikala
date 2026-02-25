@@ -16,9 +16,10 @@
 
 ---
 
-<img align="right" alt="profile" width="300" height="300" src="ganesh.jpeg"/>
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="profile" width="300" height="300" src="ganesh.jpeg"/>
 
 🎓 **B.Tech CS & IT** from SIET, Puttur, AP *(2021–2025)*
 
