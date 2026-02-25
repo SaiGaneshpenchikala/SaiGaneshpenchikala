@@ -17,7 +17,7 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="380" src="ganesh.jpeg"/>
+<img align="right" alt="profile" width="300" src="ganesh.jpeg"/>
 
 ## 👨‍💻 About Me
 
